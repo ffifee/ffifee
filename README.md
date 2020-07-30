@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey! 
+...Work in progress\
+
+I'm a extramural student at [VSITE](https://vsite.hr/en), located in Zagreb, Croatia.
+
+I've been tinkering with tech stuff since early ages.
+
+#Stuff I work with:
+I have knowledge in HTML, CSS, and JS. Currently I'm expanding my knowledge with ReactJS and NodeJS.
+Also at college working with python and SageMath.
+
+#Additional stuff I know:
+Expert in photography and Adobe tools (Photoshop, Illustrator...)
+
+
 
 <!--
 **ffifee/ffifee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
