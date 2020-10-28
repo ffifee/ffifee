@@ -6,8 +6,7 @@ I'm a extramural student at [VSITE](https://vsite.hr/en), located in Zagreb, Cro
 I've been tinkering with tech stuff since early ages.
 
 #Stuff I work with:
-I have knowledge in HTML, CSS, and JS. Currently I'm expanding my knowledge with ReactJS and NodeJS.
-Also at college working with python and SageMath.
+I have knowledge in HTML, CSS, JS and Python. Currently I'm expanding my knowledge with Django and PyQt5.
 
 #Additional stuff I know:
 Expert in photography and Adobe tools (Photoshop, Illustrator...)
