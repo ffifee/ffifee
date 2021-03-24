@@ -1,5 +1,4 @@
 ### Hey! 
-...Work in progress\
 
 I'm a extramural student at [VSITE](https://vsite.hr/en), located in Zagreb, Croatia.
 
