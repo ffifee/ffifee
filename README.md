@@ -5,10 +5,7 @@ I'm a extramural student at [VSITE](https://vsite.hr/en), located in Zagreb, Cro
 I've been tinkering with tech stuff since early ages.
 
 #Stuff I work with:
-HTML, CSS, JS and Python. Currently I'm expanding my knowledge with Flask, and working on a Machine Learning project with PyTorch.
-
-#Additional stuff I know:
-Photography and Adobe tools (Photoshop, Illustrator...)
+HTML, CSS, JS, Python .NET and anything tech related.
 
 
 
